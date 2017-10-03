@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HiLoGame</string>
+
+    <string name="theText">Please guess a number</string>
+    <string name="RobotString">I am NumberBot2000 you will never guess my number.</string>
+    <string name="userGuess">Tap here to guess</string>
+    <string name="Reset">Reset</string>
+    <string name="Guess">Guess</string>
+    <string name="tooHigh">"Your guess was too high"</string>
+    <string name="tooLow">Your guess was too low</string>
+    <string name="superiorWin">Superior Win!</string>
+    <string name="ExcellentWin">Excellent Win!</string>
+    <string name="pleaseReset">Out of Guesses Please Reset!</string>
+    <string name="action_about">About</string>
+    <string name="author">Riley Griffith (grif0193)</string>
+    <string name="remaining">Guesses Remaining:</string>
+</resources>
